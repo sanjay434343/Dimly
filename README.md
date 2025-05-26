@@ -86,22 +86,6 @@ flutter run
 
 ---
 
-## 🛠️ Roadmap
-
-* [ ] iOS Support (using Swift)
-* [ ] Voice-controlled flashlight toggle
-* [ ] System-wide automation (e.g., Tasker or shortcuts)
-* [ ] Cloud sync for settings
-
----
-
-## 🧑‍💻 Contributing
-
-Contributions, feature requests, and bug reports are welcome!
-Please open an issue or submit a pull request.
-
----
-
 ## 📜 License
 
 MIT License – Feel free to use, modify, and distribute.
