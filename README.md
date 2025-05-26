@@ -72,13 +72,16 @@ flutter run
 ## 📷 Screenshots
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/ambient.png?raw=true" height="150px">
-    <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/home.png?raw=true" height="150px">
-    <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/splash.png?raw=true" height="150px">
-    <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/settings.png?raw=true" height="150px">
-  </div>
+  <table style="width: 100%; table-layout: fixed;">
+    <tr>
+      <td><img src="https://github.com/sanjay434343/Dmily/blob/main/readme/ambient.png?raw=true" style="width: 100%; height: 300px; object-fit: cover;"></td>
+      <td><img src="https://github.com/sanjay434343/Dmily/blob/main/readme/home.png?raw=true" style="width: 100%; height: 300px; object-fit: cover;"></td>
+      <td><img src="https://github.com/sanjay434343/Dmily/blob/main/readme/splash.png?raw=true" style="width: 100%; height: 300px; object-fit: cover;"></td>
+      <td><img src="https://github.com/sanjay434343/Dmily/blob/main/readme/settings.png?raw=true" style="width: 100%; height: 300px; object-fit: cover;"></td>
+    </tr>
+  </table>
 </p>
+
 
 
 ---
