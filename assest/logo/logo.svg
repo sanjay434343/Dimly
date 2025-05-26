@@ -1,0 +1,13 @@
+
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Photon core -->
+  <circle cx="60" cy="60" r="8" fill="black" />
+
+  <!-- Brightness level arcs (integrated into logo) -->
+  <circle cx="60" cy="60" r="16" stroke="black" stroke-width="2" fill="none" />
+  <circle cx="60" cy="60" r="24" stroke="black" stroke-width="2" fill="none" />
+  <circle cx="60" cy="60" r="32" stroke="black" stroke-width="2" fill="none" />
+
+  <!-- Optional subtle dash for energy flow (photon style) -->
+  <circle cx="60" cy="60" r="40" stroke="black" stroke-width="1.5" fill="none" stroke-dasharray="4 6" />
+</svg>

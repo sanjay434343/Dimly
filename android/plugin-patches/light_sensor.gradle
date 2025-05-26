@@ -1,0 +1,18 @@
+android {
+    namespace "com.vodemn.light_sensor"
+    compileSdkVersion 34 // Add this line
+
+    defaultConfig {
+        targetSdkVersion 34 // Add or ensure targetSdk is appropriate
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    // Fix compileOptions to use correct Java version
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+}
+dependencies {
+    implementation "androidx.vectordrawable:vectordrawable:1.1.0"
+}

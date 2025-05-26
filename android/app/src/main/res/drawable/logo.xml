@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorOnSurface">
+    <!-- Flashlight icon as fallback -->
+    <path android:fillColor="@android:color/white"
+          android:pathData="M9,2h6c0.55,0 1,0.45 1,1v2c0,0.55 -0.45,1 -1,1H9C8.45,6 8,5.55 8,5V3C8,2.45 8.45,2 9,2z"/>
+    <path android:fillColor="@android:color/white"
+          android:pathData="M7,6h10c0.55,0 1,0.45 1,1v5.5c0,0.28 -0.22,0.5 -0.5,0.5h-11C6.22,13 6,12.78 6,12.5V7C6,6.45 6.45,6 7,6z"/>
+    <path android:fillColor="@android:color/white"
+          android:pathData="M10,14h4c0.55,0 1,0.45 1,1v6c0,0.55 -0.45,1 -1,1h-4c-0.55,0 -1,-0.45 -1,-1v-6C9,14.45 9.45,14 10,14z"/>
+    <path android:fillColor="@android:color/white"
+          android:pathData="M6.5,12.5h11v1h-11z"/>
+</vector>

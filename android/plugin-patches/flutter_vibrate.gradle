@@ -1,0 +1,3 @@
+android {
+    namespace "com.benjaminabel.flutter_vibrate"
+}
