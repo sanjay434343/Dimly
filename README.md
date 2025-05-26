@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/ambient.png?raw=true" width="100px" height="100px" alt="Dimly Logo">
+</p>
 
 # 🌙 Dimly – Intelligent Flashlight Controller
 
@@ -40,7 +43,6 @@
 
 * **Flutter (Dart)** – Cross-platform UI and core logic.
 * **Kotlin** – Native Android functionality for:
-
   * Hardware control
   * Background services
   * Sensor access
@@ -63,7 +65,7 @@ git clone https://github.com/sanjay434343/Dmily.git
 cd dimly
 flutter pub get
 flutter run
-```
+````
 
 ---
 
@@ -71,19 +73,19 @@ flutter run
 
 ### 🔸 Ambient Mode
 
-![Ambient Mode](https://github.com/sanjay434343/Dmily/blob/main/readme/ambient.png?raw=true)
+<img src="https://github.com/sanjay434343/Dmily/blob/main/readme/ambient.png?raw=true" height="350px">
 
 ### 🔸 Home Screen
 
-![Home Screen](https://github.com/sanjay434343/Dmily/blob/main/readme/home.png?raw=true)
+<img src="https://github.com/sanjay434343/Dmily/blob/main/readme/home.png?raw=true" height="350px">
 
 ### 🔸 Splash Screen
 
-![Splash Screen](https://github.com/sanjay434343/Dmily/blob/main/readme/splash.png?raw=true)
+<img src="https://github.com/sanjay434343/Dmily/blob/main/readme/splash.png?raw=true" height="350px">
 
 ### 🔸 Settings Page
 
-![Settings Page](https://github.com/sanjay434343/Dmily/blob/main/readme/settings.png?raw=true)
+<img src="https://github.com/sanjay434343/Dmily/blob/main/readme/settings.png?raw=true" height="350px">
 
 ---
 
