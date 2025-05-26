@@ -71,21 +71,15 @@ flutter run
 
 ## 📷 Screenshots
 
-### 🔸 Ambient Mode
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/ambient.png?raw=true" height="150px">
+    <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/home.png?raw=true" height="150px">
+    <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/splash.png?raw=true" height="150px">
+    <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/settings.png?raw=true" height="150px">
+  </div>
+</p>
 
-<img src="https://github.com/sanjay434343/Dmily/blob/main/readme/ambient.png?raw=true" height="350px">
-
-### 🔸 Home Screen
-
-<img src="https://github.com/sanjay434343/Dmily/blob/main/readme/home.png?raw=true" height="350px">
-
-### 🔸 Splash Screen
-
-<img src="https://github.com/sanjay434343/Dmily/blob/main/readme/splash.png?raw=true" height="350px">
-
-### 🔸 Settings Page
-
-<img src="https://github.com/sanjay434343/Dmily/blob/main/readme/settings.png?raw=true" height="350px">
 
 ---
 
