@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/ambient.png?raw=true" width="100px" height="100px" alt="Dimly Logo">
+  <img src="https://github.com/sanjay434343/Dmily/blob/main/readme/logo.png?raw=true" width="100px" height="100px" alt="Dimly Logo">
 </p>
 
 # 🌙 Dimly – Intelligent Flashlight Controller
