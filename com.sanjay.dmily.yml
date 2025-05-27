@@ -1,0 +1,40 @@
+Categories:
+  - System
+  - Security
+  - Utility
+License: MIT
+SourceCode: https://github.com/sanjay434343/Dmily
+IssueTracker: https://github.com/sanjay434343/Dmily/issues
+Changelog: https://github.com/sanjay434343/Dmily/releases/tag/v1.0.0
+AutoName: Dimly
+Summary: Intelligent flashlight controller with advanced modes
+Description: |
+  Dimly – your intelligent flashlight controller built with Flutter and Kotlin.
+
+  This first official release brings a beautifully crafted, feature-rich flashlight experience designed for everyday use and emergencies.
+
+  ✨ Features:
+  - Standard Flashlight Mode
+  - SOS Blinking for emergencies
+  - Custom Interval Blinking
+  - Morse Code Blinking with any input
+  - Smart Ambient Mode using light sensors
+  - Dynamic Theming based on system theme
+  - Advanced Settings: Auto turn-off, quick tiles, haptics, and more
+  - Native Kotlin integration for smooth hardware and background control
+
+RepoType: git
+Repo: https://github.com/sanjay434343/Dmily.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: 0950b70
+    subdir: .
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1
