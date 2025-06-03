@@ -1,0 +1,13 @@
+{
+  "name": "Dimly",
+  "version": "1.0.0",
+  "description": "A feature-packed flashlight app with SOS, Morse code, ambient light sensing, and customizable settings.",
+  "icon_url": "https://yourwebsite.com/ddroid/dimly-icon.png",
+  "apk_url": "https://yourwebsite.com/ddroid/dimly.apk",
+  "screenshots": [
+    "https://yourwebsite.com/ddroid/dimly-ss1.png",
+    "https://yourwebsite.com/ddroid/dimly-ss2.png"
+  ],
+  "changelog": "Initial release with advanced flashlight modes, Morse code, smart ambient mode, and full customization options.",
+  "category": "Utilities"
+}
