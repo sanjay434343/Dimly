@@ -5,7 +5,9 @@
   "icon_url": "https://github.com/sanjay434343/Dimly/blob/main/readme/logo.jpg?raw=true",
   "release": "https://github.com/sanjay434343/Dimly/releases/tag/v1.0.0",
   "screenshots": [
+    "https://github.com/sanjay434343/Dimly/blob/main/readme/splash.png?raw=true",
     "https://github.com/sanjay434343/Dimly/blob/main/readme/home.png?raw=true",
+    "https://github.com/sanjay434343/Dimly/blob/main/readme/ambient.png?raw=true",
     "https://github.com/sanjay434343/Dimly/blob/main/readme/settings.png?raw=true"
   ],
   "changelog": "Initial release with advanced flashlight modes, Morse code, smart ambient mode, and full customization options.",
