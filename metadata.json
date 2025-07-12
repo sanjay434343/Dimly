@@ -1,6 +1,6 @@
 {
   "name": "Dimly",
-  "version": "1.0.2",
+  "version": "v1.0.2",
   "description": "A feature-packed flashlight app with SOS, Morse code, ambient light sensing, and customizable settings.",
   "icon_url": "https://github.com/sanjay434343/Dimly/blob/main/readme/logo.jpg?raw=true",
   "release": "https://github.com/sanjay434343/Dimly/releases/tag/v1.0.0",
